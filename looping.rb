@@ -3,4 +3,4 @@ def looping
 	puts "Wingardium Leviosa"
 end
 
-"Wingardium Leviosa"
+puts "Wingardium Leviosa"
