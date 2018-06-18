@@ -4,4 +4,4 @@ def looping
 	puts "Wingardium Leviosa"
 end
 
-loop
+puts "Wingardium Leviosa"
