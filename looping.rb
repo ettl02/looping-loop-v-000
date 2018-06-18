@@ -1,8 +1,7 @@
 def looping
-  counter = 0
   loop do
 	puts "Wingardium Leviosa"
 end
-end 
+end
 
 puts "Wingardium Leviosa"
